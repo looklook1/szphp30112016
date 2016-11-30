@@ -1,1 +1,3 @@
 to jest cwiczenie ze zmiana 
+
+nauka GIT-a
